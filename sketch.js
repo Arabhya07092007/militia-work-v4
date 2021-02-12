@@ -618,12 +618,6 @@ function draw(){
     textSize(40);
     fill("indigo");
 
-    //if(bulletGroup2.length>0){
-    text(' this is fuel  :- '+fuel,b3.body.position.x+200,b3.body.position.y);
-   // }
-
-    ///camera.zoom+"  : "+a+" "+b+" "+c+" "+d
-
     /// the code for fuel and  health 
 
     push();
